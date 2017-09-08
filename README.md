@@ -15,3 +15,7 @@ Then once you develop the services. You can execute following command. It will b
 ```
 mvn msf4j:run
 ```
+
+## Note
+Please note that since this is not avaialble in maven central first you need to get this and locally build the plugin.
+To do that just clone or download the repo and do a *mvn clean install*
